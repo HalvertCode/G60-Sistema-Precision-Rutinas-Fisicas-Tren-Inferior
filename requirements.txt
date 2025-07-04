@@ -1,0 +1,7 @@
+customtkinter
+pandas
+numpy
+mediapipe
+opencv-python
+pillow
+scikit-learn==1.1.2
