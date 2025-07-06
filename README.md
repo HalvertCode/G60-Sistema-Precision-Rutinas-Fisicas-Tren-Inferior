@@ -52,6 +52,10 @@ Desarrollar una herramienta que permita analizar y corregir la técnica de ejerc
    python squats_app.py
    ```
 
+## 📦 Archivos de Datos
+
+Los archivos de datos eliminados del repositorio se pueden descargar desde [este enlace de Google Drive](https://drive.google.com/drive/folders/1azSR81gyLWGCcZueUkVx534DCR30gwWR?usp=sharing).
+
 ## 📹 Presentación del Proyecto
 
 Para una demostración visual del funcionamiento del sistema, puedes ver el siguiente video:
