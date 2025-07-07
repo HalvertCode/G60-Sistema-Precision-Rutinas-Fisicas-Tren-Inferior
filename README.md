@@ -58,9 +58,15 @@ Los archivos de datos (.pkl y .csv) del repositorio se pueden descargar desde [e
 
 ## 📹 Presentación del Proyecto
 
-Para una demostración visual del funcionamiento del sistema, puedes ver el siguiente video:
+Para una demostración visual del funcionamiento del sistema, puedes ver los siguientes videos:
+
+1. Presentación parcial del proyecto
 
 [![Presentación G60](https://img.youtube.com/vi/N3otuIkYhJc/0.jpg)](https://www.youtube.com/watch?v=N3otuIkYhJc)
+
+2. Presentación final del proyecto
+
+[![Presentación Final G60](https://img.youtube.com/vi/88nD-iPLDWY/0.jpg)](https://www.youtube.com/watch?v=88nD-iPLDWY)
 
 ## 👥 Autores
 
